@@ -174,7 +174,7 @@ class PoisonFood:
     def draw(self, screen):
         pygame.draw.rect(screen, DARK_RED, (self.pos.x * CELL, self.pos.y * CELL, CELL, CELL))
 
-
+# ft
 class PowerUp:
     def __init__(self):
         self.kind = None

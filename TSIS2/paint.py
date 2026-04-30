@@ -304,15 +304,15 @@ while running:
                     print("Tool: text")
 
                 # Brush size hotkeys.
-                elif event.key == pygame.K_F1:
+                elif event.key == pygame.K_i:
                     thickness = 2
                     print("Brush size: small")
 
-                elif event.key == pygame.K_F2:
+                elif event.key == pygame.K_o:
                     thickness = 5
                     print("Brush size: medium")
 
-                elif event.key == pygame.K_F3:
+                elif event.key == pygame.K_p:
                     thickness = 10
                     print("Brush size: large")
 

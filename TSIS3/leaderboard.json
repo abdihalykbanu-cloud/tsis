@@ -36,9 +36,27 @@
         "coins": 4
     },
     {
+        "name": "ggg",
+        "score": 410,
+        "distance": 194,
+        "coins": 4
+    },
+    {
+        "name": "ffgd",
+        "score": 363,
+        "distance": 198,
+        "coins": 2
+    },
+    {
         "name": "\u0432\u0430\u043f",
         "score": 178,
         "distance": 124,
         "coins": 1
+    },
+    {
+        "name": "ffgd",
+        "score": 172,
+        "distance": 197,
+        "coins": 0
     }
 ]
